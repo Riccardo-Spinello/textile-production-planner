@@ -36,9 +36,9 @@ st.markdown("""
         padding: 1rem;
         margin: 0.5rem 0;
     }
-    .critical-box {
-        background-color: #8B0000;
-         color: #FFFFFF;
+    39
+ background-color: #f8d7da;
+ color: #8B0000;F;
         border: 1px solid #dc3545;
         border-radius: 8px;
         padding: 1rem;
